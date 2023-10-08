@@ -1,0 +1,11 @@
+p > .blue {
+    color: blue;
+}
+
+p .red {
+    color: red;
+}
+
+body {
+    background-color: #ccc;
+}
